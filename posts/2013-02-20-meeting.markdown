@@ -1,0 +1,38 @@
+---
+title: Lecture Talk! 2/21/13
+---
+
+NYUMS MEETING: 2/21, 7:15 PM, WWH ROOM 201
+
+Hi Everyone,
+
+We hope that everyone had a relaxing long weekend! This week we be having a talk about tessellating polygons.  Also we want to remind you that the deadline to sign up for the Brown SUMS Conference is coming up so sign up ASAP!  As always, food and drink will be provided.  
+Lecture Talk
+
+Brown SUMS Conference
+
+Lecture Talk
+WHEN: THURSDAY, FEBRUARY 21th, 7:15 PM WHERE: WWH (Warren Weaver Hall) ROOM 201 
+
+WHAT: A polygon tessellates the plane if rotations and translations of that polygon can cover the plane without overlaps or gaps.  Every triangle tessellates, and every quadrilateral (even the non-convex ones).  Not every pentagon tessellates, but some do, and we wonder how many similarity types of tessellating pentagons exist.  Before 1968 it was thought to be five, but over the next 20 years several more were found, including four by an amateur with only a high school math education.
+
+
+The website is here: http://sums.math.brown.edu/
+Brown SUMS Conference
+WHAT: On March 9th 2013, Brown is hosting the Symposium for Undergraduates in the Mathematics Sciences (SUMS). A group of us are planning to go to this symposium and see all the cool mathematics there. If you’d like to come with us, we'd love to have you!
+
+The website is here: http://sums.math.brown.edu/
+
+
+We look forward to seeing you at our meetings. If you’d like to learn more about our group, join us on
+
+facebook or visit our webpage at:
+
+http://www.facebook.com/nyumathematics
+http://www.facebook.com/pages/NYUMathematicsSociety
+http://math.nyu.edu/math_club/
+Strength in Numbers! Have a great week!
+
+Cheers,
+
+NYUMS
