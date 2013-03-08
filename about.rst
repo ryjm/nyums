@@ -11,6 +11,8 @@ James Moody - President
 
 John Yoon <jyoon0529@gmail.com> - Vice President
 
+Jamiee Foster - Diversity Chair
+
 Alexandra Singer - Secretary
 
 John Chiarelli - Treasurer 
