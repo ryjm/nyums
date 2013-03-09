@@ -75,7 +75,6 @@ main = hakyll $ do
 postCtx :: Context String
 postCtx =
   constField "author" "jake" `mappend`
---  constField "description" "N/A" `mappend`
   dateField "created" "%d %b %Y" `mappend`
   dateField "date" "%B %e, %Y" `mappend`
   modificationTimeField "mtime" "%d %b %Y" `mappend`
@@ -99,7 +98,6 @@ postList sortFilter = do
 
 --------------------------------------------------------------------------------
 
--- hakyll config with custom pandoc config
 pandocOptions :: WriterOptions
 pandocOptions = defaultHakyllWriterOptions {
   -- so we can have a TOC:
