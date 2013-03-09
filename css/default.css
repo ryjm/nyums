@@ -75,7 +75,6 @@ div#main {
 
 }
 
-
 div#logo a {
     color: black;
     float: left;
@@ -109,7 +108,7 @@ div#description {
 }
 div#content {
     padding-left: 95px;
-    margin-left: 10px;
+    margin-left: 20px;
     line-height: 135%;
 }
 a {

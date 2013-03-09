@@ -1,3 +1,0 @@
-[("gwern",User {uUsername = "gwern", uPassword = Password {pSalt = "Fn;o3\\<rIf3txk9gkK;>[4dquk=n?^=W", pHashed = "f863c0e7507d7c505b157cbff8c2933f051ebd79fc1127d2ae9d2c2d80e6e125f180d83cf2a4e126d633e019e64bbc77472de1bebbb2264f48e11c5e56ec46ce"}, uEmail = "gwern0@gmail.com"})
-,("jake",User {uUsername = "jake", uPassword = Password {pSalt = "D:lGcD8SFCw@XYjcaG>jQskUyA`A;wMj", pHashed = "fd02f19fce28c3c2bd75861581b0716e00f599dd4313a8092272859437660caf87dd87d990abffb37e6157bb6dd93f197f7f04c16ac85b3a6d0e94810d93cecc"}, uEmail = "jraydermiller@gmail.com"})
-]
