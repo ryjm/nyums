@@ -1,43 +1,44 @@
 ---
 title: Research
+description: Research advice and resources
+created: 14 Feb 2013
 ---
 
 ### Getting advice from Courant Institute Faculty:
 
 The best source of advice about your career in mathematics is to ask one
-of your professors. Many faculty in the [Courant
-Institute](http://www.cims.nyu.edu/) have affiliations with other
+of your professors. Many faculty in the [Courant
+Institute](http://www.cims.nyu.edu/) have affiliations with other
 academic or private institutions. Undergraduates can also contact
 Beth Markowitz, the Undergraduate Program Administrator by emailing
-her at [beth(at)cims.nyu.edu](mailto:beth@cims.nyu.edu) or visiting
+her at [beth(at)cims.nyu.edu](mailto:beth@cims.nyu.edu) or visiting
 her in Room 626 in Warren Weaver Hall, Courant Institute of Mathematical
 Sciences.
 
 ### Undergraduate Research Opportunities:
 
-Our club assists students doing research, especially in the area of
-Mathematics sciences. The following pdf download is from one of our
-meetings detailing the vast resources you can attain. [Undergraduate
+Our club assists students doing research. The following pdf download is from one of our
+meetings detailing the vast resources you can attain. [Undergraduate
 Research
-Talk ](http://math.nyu.edu/math_club/Undergrad_Research_Talk.pdf)
+Talk ](http://math.nyu.edu/math_club/Undergrad_Research_Talk.pdf)
 Further information is available on the various web pages maintained by
-the **American Mathematics Society** ([AMS](http://www.ams.org/)), in
-the [Careers and Education](http://www.ams.org/careers-edu) section. We
+the **American Mathematics Society** ([AMS](http://www.ams.org/)), in
+the [Careers and Education](http://www.ams.org/careers-edu) section. We
 encourage students to explore further for information and opportunities
 not mentioned here.
 
 -   [Budapest Semesters in
-    Mathematics](http://www.stolaf.edu/depts/math/budapest/) If you have
+    Mathematics](http://www.stolaf.edu/depts/math/budapest/) If you have
     any questions email Aaron: ae593@nyu.edu
 -   [EDGE](http://math.nyu.edu/math_club/resources.html#EDGE): Enhancing
     Diversity in Graduate Education
 -   [MASS](http://math.nyu.edu/math_club/resources.html#Mass):
-    Mathematics Advanced Study Semesters at [Pennsylvania State
+    Mathematics Advanced Study Semesters at [Pennsylvania State
     University](http://www.psu.edu/)
 -   [Math in
     Moscow](http://math.nyu.edu/math_club/resources.html#Moscow)
 -   [MTBI](http://math.nyu.edu/math_club/resources.html#MTBI):
-    Mathematics and Theoretical Biology Institute at [Cornell
+    Mathematics and Theoretical Biology Institute at [Cornell
     University](http://www.cornell.edu/)
 -   [NIH](http://math.nyu.edu/math_club/resources.html#NIH): Summer
     Internships in Biomedical Research
@@ -49,15 +50,15 @@ not mentioned here.
     Vertical Integration of Graduate Research and Education in the
     Mathematics Sciences
 -   [Weizmann Institute of
-    Science](http://math.nyu.edu/math_club/resources.html#Weizmann) in
+    Science](http://math.nyu.edu/math_club/resources.html#Weizmann) in
     Rehovot, Israel
 
 ### EDGE
 
 The Enhancing Diversity in Graduate Education
 ([EDGE](http://www.edgeforwomen.org/what.html)) program, funded by
-The [Andrew W. Mellon Foundation](http://www.mellon.org/) and
-the [National Science Foundation](http://www.nsf.org/), is designed to
+The [Andrew W. Mellon Foundation](http://www.mellon.org/) and
+the [National Science Foundation](http://www.nsf.org/), is designed to
 strengthen the ability of women and minority students to successfully
 complete graduate programs in the Mathematics sciences. The summer
 program consists of two core courses in analysis and algebra/linear
@@ -70,9 +71,9 @@ programs.
 
 ### MASS
 
-The **Mathematcs Advanced Study
-Semesters** ([MASS](http://www.math.psu.edu/mass/)) program at
-the [Pennsylvania State University](http://www.psu.edu/)seeks to provide
+The **Mathematcs Advanced Study
+Semesters** ([MASS](http://www.math.psu.edu/mass/)) program at
+the [Pennsylvania State University](http://www.psu.edu/)seeks to provide
 students with a comprehensive environment for the study of mathematics.
 The program's core consists of courses chosen from areas in Algebra,
 Number Theory, Analysis, Geometry, and Topology, each of which are
@@ -84,22 +85,22 @@ universities may apply for admission to the program.
 
 ### Math in Moscow
 
-The **Independent University of
-Moscow** ([IUM](http://www.mccme.ru/english/ium/)), a global centre for
+The **Independent University of
+Moscow** ([IUM](http://www.mccme.ru/english/ium/)), a global centre for
 the study of mathematis, offers a 15-week academic program for foreign
 undergraduate and graduate students of mathematics or computer science.
-Students participating in the [Math in
-Moscow](http://www.mccme.ru/mathinmoscow/index.htm) program may choose
+Students participating in the [Math in
+Moscow](http://www.mccme.ru/mathinmoscow/index.htm) program may choose
 as many courses as desired from a wide range of mathematics courses. All
 courses are taught in English.
 
 ### MTBI
 
-The **Mathematics and Theoretical Biology
-Institute** ([MTBI](http://www.bscb.cornell.edu/MTBI/)) at [Cornell
-University](http://www.cornell.edu/)'s [Department of Biological
+The **Mathematics and Theoretical Biology
+Institute** ([MTBI](http://www.bscb.cornell.edu/MTBI/)) at [Cornell
+University](http://www.cornell.edu/)'s [Department of Biological
 Statistics and Computational
-Biology](http://www.bscb.cornell.edu/) offers an 8-week summer research
+Biology](http://www.bscb.cornell.edu/) offers an 8-week summer research
 program conducted on Cornell's Ithica campus. More information,
 including an application, can be found on the program's[web
 site](http://www.bscb.cornell.edu/MTBI/). Female and minority students
@@ -107,24 +108,24 @@ are particularly encouraged to apply.
 
 ### NIH
 
-The **National Institutes of Health** ([NIH](http://www.nih.gov/)), the
+The **National Institutes of Health** ([NIH](http://www.nih.gov/)), the
 country's largest national biomedical research facility, offer an
-eight-week [summer
-internship](http://www.training.nih.gov/student/internship/internship.asp) program
+eight-week [summer
+internship](http://www.training.nih.gov/student/internship/internship.asp) program
 at the main campus in Bethesda, MD. Students, who must be U.S. citizens
 or permanent residents, will join laboratories in one of the twenty-one
 Institutes and departments, where they will participate in ongoing
-research projects. Of particular interest is the **Mathematics Research
-Branch** ([MRB](http://mrb.niddk.nih.gov/)) of the **National Institute
+research projects. Of particular interest is the **Mathematics Research
+Branch** ([MRB](http://mrb.niddk.nih.gov/)) of the **National Institute
 of Diabetes, Digestive and Kidney
-Diseases** ([NIDDK](http://www.niddk.nih.gov/)), a center for
+Diseases** ([NIDDK](http://www.niddk.nih.gov/)), a center for
 theoretical and modeling studies in biology.
 
 ### NSA
 
-The **National Security Agency** does indeed exist, and it is in fact
+The **National Security Agency** does indeed exist, and it is in fact
 the country's leading employer of mathematicians.
-The [NSA](http://www.nsa.gov/) also runs several summer internship
+The [NSA](http://www.nsa.gov/) also runs several summer internship
 program for qualified college sophmores and juniors. For more details,
 see the programs' web pages:
 
@@ -143,22 +144,22 @@ see the programs' web pages:
 
 Recognizing the importance of undergraduate research opportunites in
 promoting basic research,the National Science Foundation founded
-the **Research Opportunities for
-Undergraduates** ([REU](http://www.nsf.gov/home/crssprgm/reu/reulist.htm))
+the **Research Opportunities for
+Undergraduates** ([REU](http://www.nsf.gov/home/crssprgm/reu/reulist.htm))
 grant program. The programs are held at various instiutions across the
 country, and range from Biology and Physical sciences to Education and
 Economics.
 
 ### VIGRE
 
-In 1998, the [National Science
-Foundation](http://www.nsf.org/) inaugurated a series of grants
-for **Vertical Integration of Graduate Research and Education in the
-Mathematics Sciences** ([VIGRE](http://www.math.psu.edu/VIGRE/)). These
+In 1998, the [National Science
+Foundation](http://www.nsf.org/) inaugurated a series of grants
+for **Vertical Integration of Graduate Research and Education in the
+Mathematics Sciences** ([VIGRE](http://www.math.psu.edu/VIGRE/)). These
 grants provide funding for both graduate and undergraduate research
 programs over the summer and during the year. As of September 2001, more
 than thirty institutions have been awarded VIGRE funding,
-including [NYU](http://www.nyu.edu/). The variety of activities being
+including [NYU](http://www.nyu.edu/). The variety of activities being
 pursued under the VIGRE program can be seen from their web sites.
 
   -- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -167,21 +168,21 @@ pursued under the VIGRE program can be seen from their web sites.
 
 ### Weizmann Institute of Science
 
-The [Weizmann Institute of Science](http://www.weizmann.ac.il/) in
+The [Weizmann Institute of Science](http://www.weizmann.ac.il/) in
 Rehovot, Israel, runs an annual summer program in math and science. They
 typically match students with senior researchers and provide a stipend.
-Applications can be obtained at the [program
-website.](http://www.weizmann.ac.il/acadsec/kkiss.html) The application
+Applications can be obtained at the [program
+website.](http://www.weizmann.ac.il/acadsec/kkiss.html) The application
 deadline for the 2003 program is December 31.
 
 ### Graduate Programs:
 
 ### Exams, schools, and guides.
 
-US New & World Report graduate school rankings: [Ph.D.
+US New & World Report graduate school rankings: [Ph.D.
 Programs](http://www.usnews.com/usnews/edu/beyond/gradrank/gbmath.htm)
 The Graduate Record Examination ([GRE](http://www.gre.org/)): [National
-Science Foundation:](http://www.fastlane.nsf.gov/) Fastlane
+Science Foundation:](http://www.fastlane.nsf.gov/) Fastlane
 
 ### Careers in Mathematics:
 

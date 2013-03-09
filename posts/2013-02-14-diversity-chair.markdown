@@ -1,5 +1,9 @@
 ---
-title: Diversity Chair Position
+title: Diversity Chair Position 
+author: 
+created: 
+mtime: 
+description: 
 ---
 
 The deadline to apply for diversity chair position is February 18, 2013 (Monday) at 5 PM. No later application is accepted.

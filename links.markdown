@@ -1,67 +1,51 @@
 ---
 title: Links
+created: 14 Feb 2013
+description: Math related resources
+author: 
 ---
-As you know, the internet offers a variety of Mathematics resources.
-Only a small portion of what is available are compiled below. Enjoy!
 
-NYU Mathematics Society on the Web!
------------------------------------
+## NYU Mathematics Society on the Web!
+### National Public Radio: Bryant Park Project
+###   [NYU Pi Day Party 2008](http://www.npr.org/templates/story/story.php?storyId=88226443) 
+###   [Courant Pi Day Interviews](http://www.sciencefriday.com/videos/watch/83)
 
--   National Public Radio: Bryant Park Project
-    -   [NYU's Pi Day Party
-        2008](http://www.npr.org/templates/story/story.php?storyId=88226443) Click
-        "Listen Now"
-    -   [Courant's Pi Day
-        Interviews](http://www.sciencefriday.com/videos/watch/83)
+## Mathematics Competitions
+###    William Lowell Putnam Exam
+###   [General Info/Main Site](http://math.scu.edu/putnam/)
+###   [Test Archive](http://www.unl.edu/amc/a-activities/a7-problems/putnamindex.shtml)
 
-### Mathematics Competitions
+###    Brown SUMS
+###   [March 8th 2008](http://math.brown.edu/SUMS/)
 
--   William Lowell Putnam Exam
-    -   [General Info/Main Site](http://math.scu.edu/putnam/)
-    -   [Test
-        Archive](http://www.unl.edu/amc/a-activities/a7-problems/putnamindex.shtml)
+###    cSplash
+###   [March 29th 2008](http://www.cims.nyu.edu/~csplash/index.php)
 
--   Brown SUMS
-    -   [March 8th 2008](http://math.brown.edu/SUMS/)
+###    Mathematics Contest in Modeling
+###   [MCM & ICM Contests](http://www.comap.com/undergraduate/contests/mcm/)
 
--   cSplash
-    -   [March 29th 2008](http://www.cims.nyu.edu/~csplash/index.php)
+##    Etexts
+###   [http://www.bhargav.com/](http://www.bhargav.com/)
 
--   Mathematics Contest in Modeling
-    -   [MCM & ICM
-        Contests](http://www.comap.com/undergraduate/contests/mcm/)
+##    References
+###   [http://www.mathworld.wolfram.com](http://www.mathworld.wolfram.com/)
 
--   E-texts
-    -   [http://www.bhargav.com/](http://www.bhargav.com/)
-    -   [http://us.geocities.com/alex\_stef/mylist.html](http://us.geocities.com/alex_stef/mylist.html)
+##    Faculty and Student Mathematics Documents
+###   [Mathematics and Reality PDF](http://www.math.nyu.edu/math_club/math_and_reality.pdf) - by David Valdman (President from a few years ago)
+###   [God and Computers](http://technetcast.ddj.com/tnc_program.html?program_id=50) - Donald Knuth Lectures
+###   [MetaMath](http://us.metamath.org/index.html)
+###   [Prof Stan Wagon](http://www.stanwagon.com/)
+###   [Geometry Junkyard](http://www.ics.uci.edu/~eppstein/junkyard/)
+###   [Primes](http://www.utm.edu/research/primes/index.html)
+###   [Game of Life](http://www.bitstorm.org/gameoflife/)
 
--   References
-    -   [http://www.mathworld.wolfram.com](http://www.mathworld.wolfram.com/)
+##    Organizations
+###   [American Mathematics Society](http://www.ams.org/)
+###   [Mathematics Association of America](http://www.maa.org/)
 
--   Faculty and Student Mathematics Documents
-    -   [Mathematics and Reality
-        PDF](http://www.math.nyu.edu/math_club/math_and_reality.pdf) -
-        by David Valdman (President from a few years ago)
-    -   [God and
-        Computers](http://technetcast.ddj.com/tnc_program.html?program_id=50) -
-        Donald Knuth Lectures
-    -   [MetaMath](http://us.metamath.org/index.html)
-    -   [Prof. Stan Wagon](http://www.stanwagon.com/)
-    -   [Geometry Junkyard](http://www.ics.uci.edu/~eppstein/junkyard/)
-    -   [Primes](http://www.utm.edu/research/primes/index.html)
-    -   [Game of Life](http://www.bitstorm.org/gameoflife/)
+## Physics
 
--   Organizations
-    -   [American Mathematics Society](http://www.ams.org/)
-    -   [Mathematics Association of America](http://www.maa.org/)
-
-### Physics
-
--   [Elegant Universe - PBS
-    Nova](http://www.pbs.org/wgbh/nova/elegant/program.html)
--   [Robotic
-    Life?](http://www2.parc.com/spl/projects/modrobots/videos/comdexreconfig.mpg) -
-    Dumber is Better
--   [Edward Witten](http://www.sns.ias.edu/~witten/) - Maybe the
-    smartest man alive.
+### [Elegant Universe - PBS Nova](http://www.pbs.org/wgbh/nova/elegant/program.html)
+###    [Robotic Life?](http://www2.parc.com/spl/projects/modrobots/videos/comdexreconfig.mpg) -	Dumber is Better
+### [Edward Witten](http://www.sns.ias.edu/~witten/) - Maybe the smartest man alive.
 
