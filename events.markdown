@@ -5,6 +5,51 @@ created: 14 Feb 2013
 author: Jake Miller
 ---
 
+# April 18th, 2013
+
+Hi everybody!
+ 
+You all seemed to enjoy Professor Cappell's talk last week! It was pretty good, huh?
+
+I hope you are yet more inspired to explore the wonders of mathematics.
+But how can you navigate through the myriad courses offered at NYU? 
+
+You're in luck! This week, we'll be hosting a course advisement session led by Professor
+Matthew Leingang.
+Pizza and good vibes will be plentiful.
+
+## MATH COURSE SELECTION ADVISEMENT
+
+Where?: Warren Weaver Hall, Room 201
+When?: Thursday, April 18 @ 7:15 PM
+
+Who's leading this thing?: Professor Matthew Leingang, Courant's Clinical Associate
+Professor and Vice Chair for Undergraduate Affairs
+What's the synopsis?: We want to help you decide which math courses you should take next
+fall. Professor Leingang will be answering any questions you might have regarding studying
+abroad, your academic future, your distant future, or whatever else you're curious about. 
+
+Should I come?: If you're a freshman, sophomore, or junior, stop on by!
+
+## SOME HIGH SCHOOL KID'S SURVEY
+
+This high school kid is doing a research project. Help him out, if you feel like it.
+
+        My name is Jhumpa Rani Sarkar and I am a student at Townsend Harris High School in
+        Queens, NY. I am currently enrolled in a social science research class. I am
+        developing a research project for the Quality of Life and INTEL research
+        competitions. My research project is on bottled water consumption and people’s
+        preferences on bottled and tap water. The survey will require around 5-10 minutes
+        for participation. (People have to be 18 years or older) 
+
+Link for the survey: tinyurl.com/thhsbottles
+
+(Latest you can respond is midnight of this Thursday.)
+
+"When one door of happiness closes, another opens, but often we look so long at the closed
+door that we do not see the one that has been opened for us." - Helen Keller
+
+
 # *April 11th, 2013*
 
 ## Lecture - Professor Cappell - Manifolds
