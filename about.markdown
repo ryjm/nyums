@@ -6,6 +6,21 @@ created: 14 Feb 2013
 mtime: 
 ---
 
+Spring 2014 Officers
+====================
+
+Alexandra Singer - President\<[ajs691@nyu.edu](mailto:ajs691@nyu.edu)\>
+
+Felix Moody - Vice President
+
+Jamiee Foster - Diversity Chair
+
+Taher Dahleh - Treasurer
+
+Elizabeth Campolongo - Secretary
+
+Jake Miller \<[jrm536@nyu.edu](mailto:jrm536@nyu.edu)\> - Webmaster
+
 Fall 2013 Officers
 ====================
 
