@@ -6,6 +6,96 @@ author: Jake Miller
 ---
 
 -------------------------------------------------------------------------------
+# February 6th, 2014 #
+
+We hope that you all had a great start to new year! Our first meeting of 
+the semester will be this Thursday at 6pm. 
+
+
+* When: Thursday, February 6th @ 6pm!
+
+* Where: WWH 13th floor room 1314
+
+* What: Welcome Back Meeting. Newcomers always welcome!!
+
+# November 13th, 2013 #
+
+Tonight we will have Professor Stepp come talk about the Mathematics 
+Association of America and student chapters. Did you know that as a member 
+you can get discounts on MAA publications, early information about 
+activities for students at section and national meetings. If you would like 
+to learn more visit: http://www.maa.org/community/student-chapters, 
+and--better yet--come to tonight's meeting! As always there will be food. 
+We hope to see you there!
+
+
+* When: Wednesday, November 13th @ 5:30pm
+
+* Where: Warren Weaver Hall room 1314
+
+* What: MAA info with Professor Stepp
+
+# November 6th, 2013 #
+
+Registration is coming up soon, and with so many courses to choose from, how
+will you ever decide which to register for? This Wednesday we will have a joint
+meeting with AWM to help you with this decision.  As always there will be
+food. We hope to see you there!
+
+
+* When: Wednesday, November 6th @ 5:30pm
+
+* Where: Warren Weaver Hall room 1314
+
+* What: Registration Advising
+
+# October 30th, 2013 #
+
+Professor Cappell will be giving a talk on manifolds (see abstract below). As
+always, there will be food. We hope to see you there!
+
+
+We will informally introduce the notion of an n-dimensional manifold and discuss
+its utility in math, physics, economics, etc. We will explain how they're
+envisioned and studied. Some examples of some key problems about manifolds and
+their history will be discussed. (Questions and interruptions are welcome.)
+
+
+
+* When: Wednesday, October 30th @ 7pm
+
+* Where: Warren Weaver Hall room 317
+
+* What: An introduction to manifolds in all their dimensions
+
+
+# October 23rd, 2013 #
+
+Midterms got you down? We will be having a midterm study session this
+Wednesday. Come prepared with questions and study materials. There will be
+food!
+
+* When: Wednesday, October 23rd @ 5:30pm
+* Where: Warren Weaver Hall room 1314
+* What: Midterm study session
+
+# October 16th, 2013
+No meeting this week!
+
+# October 9th, 2013
+We hope everyone is having a good week and is looking forward to fall
+break!  This week, we will have Brandon Greer give a brief talk on
+game theory and play some games together! So, if you guys want to
+learn about game theory and like playing games then stop by! Food will
+be provided as always!
+
+
+* When: Wednesday, October 9th @ 6:00pm (NOTE: We will be starting this 
+week's meeting at 6:00pm instead of 5:30pm)
+
+* Where: Warren Weaver Hall Room 1314
+
+* What: Game Theory and Game Night
 
 # September 18th, 2013
 It was a pleasure meeting all of you last week! For this week's meeting we
@@ -15,11 +105,14 @@ motivate more advances topics that we can talk about. Bring your best
 puzzles and riddles to share! There are a few to hold you over below. The
 last one is especially nice.
 
-When: Wednesday, September 18th @ 5:30pm
-Where: Warren Weaver Hall room 1314
-What: Puzzle night!
 
----------
+* When: Wednesday, September 18th @ 5:30pm
+
+* Where: Warren Weaver Hall room 1314
+
+* What: Puzzle night!
+
+## Problem 1 ##
 
 Suppose you're on a game show and you have a choice of three doors. Behind
 door 1 lies a check that will pay for all 4 years at NYU. Behind the other
@@ -29,7 +122,7 @@ one of the other doors that reveals a goat. He says that you can either
 stick with your original door or change to the remaining door. Should you
 switch or not, or does it not matter?
 
----------
+## Problem 2 ##
 
 A group of math majors with assorted eye colors barricade themselves in
 Bobst to study for finals. They are all perfect logicians -- if a
@@ -50,9 +143,9 @@ red eyes.
 One day, the person with green eyes says a single sentence:
 "I can see someone who has blue eyes."
 
-Who leaves the island, and on what night?
+Who leaves the library, and on what night?
 
----------
+## Problem 3 ##
 
 Two integers x and y are selected such that 1 < x <= y < 100.
 

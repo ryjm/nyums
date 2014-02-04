@@ -17,46 +17,20 @@ Sciences.
 
 ### Undergraduate Research Opportunities:
 
-Our club assists students doing research. The following pdf download is from one of our
-meetings detailing the vast resources you can attain. [Undergraduate
-Research
-Talk ](http://math.nyu.edu/math_club/Undergrad_Research_Talk.pdf)
-Further information is available on the various web pages maintained by
-the **American Mathematics Society** ([AMS](http://www.ams.org/)), in
-the [Careers and Education](http://www.ams.org/careers-edu) section. We
-encourage students to explore further for information and opportunities
-not mentioned here.
+Our club assists students doing research.  Further information is available on
+the various web pages maintained by the **American Mathematics Society**
+([AMS](http://www.ams.org/)), in the
+[Careers and Education](http://www.ams.org/profession/profession) section. We encourage
+students to explore further for information and opportunities not mentioned
+here.
 
 -   [Budapest Semesters in
-    Mathematics](http://www.stolaf.edu/depts/math/budapest/) If you have
-    any questions email Aaron: ae593@nyu.edu
--   [EDGE](http://math.nyu.edu/math_club/resources.html#EDGE): Enhancing
-    Diversity in Graduate Education
--   [MASS](http://math.nyu.edu/math_club/resources.html#Mass):
-    Mathematics Advanced Study Semesters at [Pennsylvania State
-    University](http://www.psu.edu/)
--   [Math in
-    Moscow](http://math.nyu.edu/math_club/resources.html#Moscow)
--   [MTBI](http://math.nyu.edu/math_club/resources.html#MTBI):
-    Mathematics and Theoretical Biology Institute at [Cornell
-    University](http://www.cornell.edu/)
--   [NIH](http://math.nyu.edu/math_club/resources.html#NIH): Summer
-    Internships in Biomedical Research
--   [NSA](http://math.nyu.edu/math_club/resources.html#NSA): National
-    Security Agency of the United States
--   [REU](http://math.nyu.edu/math_club/resources.html#REU): Research
-    Opportunities for Undergraduates
--   [VIGRE](http://math.nyu.edu/math_club/resources.html#Vigre):
-    Vertical Integration of Graduate Research and Education in the
-    Mathematics Sciences
--   [Weizmann Institute of
-    Science](http://math.nyu.edu/math_club/resources.html#Weizmann) in
-    Rehovot, Israel
+    Mathematics](http://www.stolaf.edu/depts/math/budapest/) 
 
 ### EDGE
 
 The Enhancing Diversity in Graduate Education
-([EDGE](http://www.edgeforwomen.org/what.html)) program, funded by
+([EDGE](http://www.edgeforwomen.org/)) program, funded by
 The [Andrew W. Mellon Foundation](http://www.mellon.org/) and
 the [National Science Foundation](http://www.nsf.org/), is designed to
 strengthen the ability of women and minority students to successfully
@@ -71,7 +45,7 @@ programs.
 
 ### MASS
 
-The **Mathematcs Advanced Study
+The **Mathematics Advanced Study
 Semesters** ([MASS](http://www.math.psu.edu/mass/)) program at
 the [Pennsylvania State University](http://www.psu.edu/)seeks to provide
 students with a comprehensive environment for the study of mathematics.
@@ -86,32 +60,20 @@ universities may apply for admission to the program.
 ### Math in Moscow
 
 The **Independent University of
-Moscow** ([IUM](http://www.mccme.ru/english/ium/)), a global centre for
-the study of mathematis, offers a 15-week academic program for foreign
+Moscow** ([IUM](http://ium.mccme.ru/english/)), a global centre for
+the study of mathematics, offers a 15-week academic program for foreign
 undergraduate and graduate students of mathematics or computer science.
 Students participating in the [Math in
-Moscow](http://www.mccme.ru/mathinmoscow/index.htm) program may choose
+Moscow](http://www.mccme.ru/mathinmoscow/) program may choose
 as many courses as desired from a wide range of mathematics courses. All
 courses are taught in English.
-
-### MTBI
-
-The **Mathematics and Theoretical Biology
-Institute** ([MTBI](http://www.bscb.cornell.edu/MTBI/)) at [Cornell
-University](http://www.cornell.edu/)'s [Department of Biological
-Statistics and Computational
-Biology](http://www.bscb.cornell.edu/) offers an 8-week summer research
-program conducted on Cornell's Ithica campus. More information,
-including an application, can be found on the program's[web
-site](http://www.bscb.cornell.edu/MTBI/). Female and minority students
-are particularly encouraged to apply.
 
 ### NIH
 
 The **National Institutes of Health** ([NIH](http://www.nih.gov/)), the
 country's largest national biomedical research facility, offer an
 eight-week [summer
-internship](http://www.training.nih.gov/student/internship/internship.asp) program
+internship](http://www.training.nih.gov/) program
 at the main campus in Bethesda, MD. Students, who must be U.S. citizens
 or permanent residents, will join laboratories in one of the twenty-one
 Institutes and departments, where they will participate in ongoing
@@ -120,25 +82,6 @@ Branch** ([MRB](http://mrb.niddk.nih.gov/)) of the **National Institute
 of Diabetes, Digestive and Kidney
 Diseases** ([NIDDK](http://www.niddk.nih.gov/)), a center for
 theoretical and modeling studies in biology.
-
-### NSA
-
-The **National Security Agency** does indeed exist, and it is in fact
-the country's leading employer of mathematicians.
-The [NSA](http://www.nsa.gov/) also runs several summer internship
-program for qualified college sophmores and juniors. For more details,
-see the programs' web pages:
-
--   [College Summer Employment Program
-    (CSEP)](http://www.nsa.gov/programs/employ/csp/summer.html)
--   [Director's Summer Program
-    (DSP)](http://www.nsa.gov/programs/employ/csp/director.html)
--   [Summer Network Evaluation Intern Program
-    (SNEIP)](http://www.nsa.gov/programs/employ/csp/evaluation.html)
--   [Summer Program For Research Technology
-    (SPORT)](http://www.nsa.gov/programs/employ/csp/sport.html)
--   [National Physical Science Consortium
-    (NPSC)](http://www.nsa.gov/programs/employ/csp/npsc.html)
 
 ### REU
 
@@ -150,7 +93,7 @@ grant program. The programs are held at various instiutions across the
 country, and range from Biology and Physical sciences to Education and
 Economics.
 
-### VIGRE
+### VIGRE (Outdated)
 
 In 1998, the [National Science
 Foundation](http://www.nsf.org/) inaugurated a series of grants
@@ -162,8 +105,7 @@ than thirty institutions have been awarded VIGRE funding,
 including [NYU](http://www.nyu.edu/). The variety of activities being
 pursued under the VIGRE program can be seen from their web sites.
 
-  -- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-     [Brown University](http://www.math.brown.edu/jobs01.html) [Carnegie Mellon University](http://www.math.columbia.edu/department/VIGRE/VIGRE_home.htm) [Columbia University](http://www.math.columbia.edu/department/VIGRE/VIGRE_home.htm) [Cornell University](http://www.math.cornell.edu/General/vigre.html) [Duke University](http://www.math.duke.edu/vigre) [Harvard University](http://www.math.harvard.edu/vigre/) [Iowa State University](http://www.public.iastate.edu/~stat/update/vigre.html) [New York University](http://www.cims.nyu.edu/vigre/) [North Carolina State University](http://www.stat.ncsu.edu/admin/vigre.htm) [Pennsylvania State University](http://www.math.psu.edu/vigre/) [Rensselaer Polytechnic Institute](http://www.math.rpi.edu/Vigre/index.vigre.html) [Rutgers University](http://www.math.rutgers.edu/vigre/vigrehome.html) [State University of New York at Stony Brook](http://www.ams.sunysb.edu/department/VIGRE/VIGweb.html) [Texas A&M University](http://www.math.tamu.edu/research/vigre/)   [University of Arizona](http://www.math.arizona.edu/VIGRE/v.html) [University of California at Berkeley](http://math.berkeley.edu/vigre/vigre.html) [University of California at Los Angeles](http://www.math.ucla.edu/people/welcome.html) [University of Chicago](http://www.math.uchicago.edu/vigre.html) [University of Colorado](http://amath.colorado.edu/vigre/) [University of Georgia](http://www.math.uga.edu/gpi/vigre.html) [University of Illinois at Chicago](http://www.math.uic.edu/~gradstudies/vigre.htm) [University of Illinois at Urbana/Champaign](http://www.math.uiuc.edu/VIGRE/) [University of Michigan](http://www.math.lsa.umich.edu/vigre/index.shtml) [University of Texas](http://www.ma.utexas.edu/vigre1/vigre.html) [University of Utah](http://www.math.utah.edu/vigre/) [University of Washington](http://www.amath.washington.edu/~vigre/) [University of Wisconsin](http://www.math.wisc.edu/~brualdi/vigre.html) [Yale University](http://www.math.yale.edu/newsite/employment.htm)
+[Brown University](http://www.math.brown.edu/jobs01.html) [Carnegie Mellon University](http://www.math.columbia.edu/department/VIGRE/VIGRE_home.htm) [Columbia University](http://www.math.columbia.edu/department/VIGRE/VIGRE_home.htm) [Cornell University](http://www.math.cornell.edu/General/vigre.html) [Duke University](http://www.math.duke.edu/vigre) [Harvard University](http://www.math.harvard.edu/vigre/) [Iowa State University](http://www.public.iastate.edu/~stat/update/vigre.html) [New York University](http://www.cims.nyu.edu/vigre/) [North Carolina State University](http://www.stat.ncsu.edu/admin/vigre.htm) [Pennsylvania State University](http://www.math.psu.edu/vigre/) [Rensselaer Polytechnic Institute](http://www.math.rpi.edu/Vigre/index.vigre.html) [Rutgers University](http://www.math.rutgers.edu/vigre/vigrehome.html) [State University of New York at Stony Brook](http://www.ams.sunysb.edu/department/VIGRE/VIGweb.html) [Texas A&M University](http://www.math.tamu.edu/research/vigre/)   [University of Arizona](http://www.math.arizona.edu/VIGRE/v.html) [University of California at Berkeley](http://math.berkeley.edu/vigre/vigre.html) [University of California at Los Angeles](http://www.math.ucla.edu/people/welcome.html) [University of Chicago](http://www.math.uchicago.edu/vigre.html) [University of Colorado](http://amath.colorado.edu/vigre/) [University of Georgia](http://www.math.uga.edu/gpi/vigre.html) [University of Illinois at Chicago](http://www.math.uic.edu/~gradstudies/vigre.htm) [University of Illinois at Urbana/Champaign](http://www.math.uiuc.edu/VIGRE/) [University of Michigan](http://www.math.lsa.umich.edu/vigre/index.shtml) [University of Texas](http://www.ma.utexas.edu/vigre1/vigre.html) [University of Utah](http://www.math.utah.edu/vigre/) [University of Washington](http://www.amath.washington.edu/~vigre/) [University of Wisconsin](http://www.math.wisc.edu/~brualdi/vigre.html) [Yale University](http://www.math.yale.edu/newsite/employment.htm)
   -- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Weizmann Institute of Science

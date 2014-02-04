@@ -17,8 +17,10 @@ cat > "posts/"$filename <<EOF
 title: $title
 author: $author
 tags:
+description: 
 ---
 
+-------------------------------------------------------------------------------
 EOF
 
 $EDITOR "posts/"$filename

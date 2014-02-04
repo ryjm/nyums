@@ -9,7 +9,7 @@ mtime:
 Fall 2013 Officers
 ====================
 
-Alexandra Singer - President
+Alexandra Singer - President\<[ajs691@nyu.edu](mailto:ajs691@nyu.edu)\>
 
 Felix Moody - Vice President
 
